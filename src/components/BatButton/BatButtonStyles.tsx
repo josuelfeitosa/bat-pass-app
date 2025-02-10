@@ -18,5 +18,15 @@ export const styles = StyleSheet.create({
     fontWeight: 'bold',
     letterSpacing: 0.25,
     color: '#E5BF3C',
-  }
+  },
+  input: {
+    width: '100%',
+    height: 42,
+    marginBottom: 5,
+    borderWidth: 1,
+    borderRadius: 5,
+    padding: 10,
+    backgroundColor: 'white',
+    textAlign: 'center',
+  },
 });
